@@ -1,6 +1,5 @@
 # FP_Komnum_088
 
-## Nama Anggota Kelompok 01
 ## Nama Anggota Kelompok A01
 |    NRP     |      Nama      |
 | :--------: | :------------: |
